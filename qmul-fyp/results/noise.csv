@@ -1,0 +1,17 @@
+noise_level,p1,p2,mode,n,accuracy,time_s
+noiseless,0.0,0.0,baseline,3,1.0,5.5
+noiseless,0.0,0.0,baseline,4,1.0,39.9
+noiseless,0.0,0.0,optimised,3,1.0,2.5
+noiseless,0.0,0.0,optimised,4,1.0,16.6
+low,0.0001,0.001,baseline,3,0.750732,103.3
+low,0.0001,0.001,baseline,4,0.582542,753.4
+low,0.0001,0.001,optimised,3,0.871582,51.5
+low,0.0001,0.001,optimised,4,0.781204,421.6
+medium,0.001,0.01,baseline,3,0.108337,110.6
+medium,0.001,0.01,baseline,4,0.022919,743.0
+medium,0.001,0.01,optimised,3,0.271667,54.8
+medium,0.001,0.01,optimised,4,0.098984,492.6
+high,0.01,0.1,baseline,3,0.020325,150.2
+high,0.01,0.1,baseline,4,0.004768,1197.3
+high,0.01,0.1,optimised,3,0.017273,77.6
+high,0.01,0.1,optimised,4,0.004044,759.0
